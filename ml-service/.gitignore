@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+
+# Model artifacts (too large for git, regenerate with train_model.py)
+artifacts/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp files
+*.egg-info/
+.pytest_cache/
